@@ -1,0 +1,70 @@
+
+{
+ 
+  "data": [
+    
+    {
+      "path": "/",
+      "title": "Inicio",
+      "icon": "home",
+      "type": "link",
+      "active": true
+    }, 
+    {
+      "path": "/listar-negocios",
+      "title": "Listar Negocios",
+      "icon": "headphones",
+      "type": "link",
+      "active": true
+    },
+    {
+      "path": "",
+      "title": "¿Quienes somos?",
+      "icon": "file-text",
+      "type": "redirect",
+      "active": true
+    },
+    {
+    "path": "",
+    "title": "¿Que ofrecemos?",
+    "icon": "file-text",
+    "type": "redirect",
+    "active": true
+  }
+   
+  ],
+  "dataUser": [
+   
+    {
+      "path": "/listar-negocios",
+      "title": "Listar Negocios",
+      "icon": "headphones",
+      "type": "link",
+      "active": true
+    },
+    {
+      "path": "/mis-mascotas",
+      "title": "Mis mascotas",
+      "icon": "headphones",
+      "type": "link",
+      "active": true
+    }
+  ],
+  "dataAdmin": [
+  {
+    "path": "/listar-Minegocio",
+    "title": "Mis negocios",
+    "icon": "file-text",
+    "type": "link",
+    "active": true
+  },
+  {
+    "path": "/menu-Negocio",
+    "title": "Servicios",
+    "icon": "file-text",
+    "type": "link",
+    "active": true
+  }
+   
+  ]
+}
